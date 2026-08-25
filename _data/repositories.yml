@@ -1,14 +1,20 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alexrex85
+# Other repositories (as examples):
+# - torvalds
+# - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AI4CH-UniUD/Genus-Compositicium # public
+  - alexrex85/Hymnarium # private, not accessible
+  - alexrex85/Psalterium_Ambrosianum # private, not accessible
+  - alexrex85/Liber_Sacramentorum # private, not accessible
+# - alshedivat/al-folio
+# - jekyll/jekyll
+# - twbs/bootstrap
+# - jquery/jquery
+# - FortAwesome/Font-Awesome
+# - mathjax/MathJax
+# - jpswalsh/academicons

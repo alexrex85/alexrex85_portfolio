@@ -1,14 +1,54 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+
+# curriculum vitae:
+# cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+
+# your email address:
+email: alessandro.re85@protonmail.com
+
+# your GitHub ID:
+github_username: alexrex85
+
+# your LinkedIn ID:
+linkedin_username: alessandro-re-168126327
+
+# your ORCID ID:
+orcid_id: 0000-0002-7142-7955
+
+# your Google Scholar ID:
+scholar_userid: Oi-orrQAAAAJ
+
+# Academia:
+academia_edu:
+  organization: uniud # your origanization
+  username: AlessandroRe # your Academia ID
+#
+
+# your ResearchGate ID:
+research_gate_profile: Alessandro-Re-6
+
+# IRIS UniUd
+uniud_iris:
+  logo: /assets/img/UniUd.png
+  title: IRIS
+  url: https://air.uniud.it/cris/rp/rp08551
+#
+
+# --- Other social links ---
+
+# inspirehep_id: 1010907 # your Inspire HEP author ID
+
+# rss_icon: true # comment this line to hide the RSS icon
+
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+
+# can be any name here other than the ones already defined in the jekyll-socials plugin
+
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+# logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+# title: Custom Social
+# url: https://www.alberteinstein.com/
