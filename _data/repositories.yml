@@ -8,9 +8,9 @@ repo_description_lines_max: 2
 
 github_repos:
   - AI4CH-UniUD/Genus-Compositicium # public
-  - alexrex85/Hymnarium # private, not accessible
-  - alexrex85/Psalterium_Ambrosianum # private, not accessible
-  - alexrex85/Liber_Sacramentorum # private, not accessible
+  - alexrex85/Hymnarium # public
+# - alexrex85/Psalterium_Ambrosianum # private, not accessible
+# - alexrex85/Liber_Sacramentorum # private, not accessible
 # - alshedivat/al-folio
 # - jekyll/jekyll
 # - twbs/bootstrap
