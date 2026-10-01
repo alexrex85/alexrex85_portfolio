@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Initium sapientiae timor Domini (Ps. 110, 10)
 
 profile:
   align: right
-  image: alexrex85_2026-08-25.jpg
+  image: alexrex85_2026-10-01.jpg
   image_circular: true # true crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

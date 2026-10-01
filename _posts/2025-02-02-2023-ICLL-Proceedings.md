@@ -3,7 +3,7 @@ layout: post
 title: Between Linguistics and Stylistics
 date: 2025-02-02 12:00:00
 description: Nominal Compounding and Literary Genre in Latin
-tags: Latin Compounds Literature
+tags: Latin Literature Linguistics
 categories: Latin
 ---
 
